@@ -2,7 +2,7 @@
 
 A code challenge completed for a HealthTech start up specializing in real-time communication technologies for emergency rooms and medium sized medical offices. 
 
-The ask was to create a reusable function that would accent three arguments of type DateTime: 1) current time; 2) earliest completion time; and 3) latest completion time. Based on these, the function would generate a specially formatted string. This would apprise the patient themselves + any of their loved ones of when they'd proceed to the next step of the medical process.
+The ask was to create a reusable function that would accept three arguments of type DateTime: 1) current time; 2) earliest completion time; and 3) latest completion time. Based on these, the function would generate a specially formatted string. This would apprise the patient themselves + any of their loved ones of when they'd proceed to the next step of the medical process.
 
 E.g. "The doctor will be in to see you within the next 5-15 minutes."
 
